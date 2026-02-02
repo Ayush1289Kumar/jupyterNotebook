@@ -1,0 +1,40 @@
+{
+    "anime": "Attack on Titan",
+    "creator": "Hajime Isayama",
+    "genres": ["Action", "Drama", "Dark Fantasy"],
+    "status": "Completed",
+    "seasons": [
+    {
+        "season": 1,
+        "year": 2013,
+        "episodes": 25,
+        "mainCharacters": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert"]
+    },
+    {
+        "season": 2,
+        "year": 2017,
+        "episodes": 12,
+        "mainCharacters": ["Eren Yeager", "Reiner Braun", "Ymir"]
+    }
+    ],
+    "characters": [
+    {
+        "name": "Eren Yeager",
+        "role": "Protagonist",
+        "affiliation": "Scout Regiment",
+        "titanPower": "Attack Titan"
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "role": "Soldier",
+        "affiliation": "Scout Regiment",
+        "titanPower": null
+    },
+    {
+        "name": "Levi Ackerman",
+        "role": "Captain",
+        "affiliation": "Scout Regiment",
+        "titanPower": null
+    }
+    ]
+}
